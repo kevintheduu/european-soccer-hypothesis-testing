@@ -1,4 +1,4 @@
-## MODULE TWO FINAL PROJECT: HYPOTHESIS TESTING, STATISTICAL ANALYSIS
+# Hypothesis Testing European Soccer Data: Home Field Advantage, Ideal Formations, and Inter-League Attributes
 
 by Alex Shropshire, Connor Anderson, Kevin Velasco
 
