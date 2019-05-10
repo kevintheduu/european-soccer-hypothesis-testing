@@ -28,6 +28,15 @@ HYPOTHESIS #2
 
 
 
-HYPOTHESIS #3
+### HYPOTHESIS #3 ###
+
+Is there a statistical difference in the defensive aggressiveness of teams in the English and French leagues. In order to create a dataframe for this hypothesis, we had to make several merge and joins in order to compare the leagues. We merged the match data with the league_ids and team attributes so that we were able to compare the attributes of the teams in both leagues. Our H0(Null Hypothesis): there is no significant difference in the defensive aggression between the English and French leagues. Our HA:(Alternate Hypothesis): there is a statistical difference in the defensive aggression between the English and French Leagues. In order to extract the data from the correct columns, we had to engineer booleans which would only take rows that were subject to each league. This allowed for easier exploration and helped facilitate the functions created. 
+
+Calculating the Cohen's d between the means of our English and French leagues as 0.0698, this allowed us to choose our minimum sample size of 578 for England and 643 for France.
+
+We used bootstrapping in this example as well, generating arrays of 50 means of randomly selected samples between the English defense and the French Defense. Bootstrapping allows assigning measures of accuracy (defined in terms of bias, variance, confidence intervals, prediction error or some other such measure) to sample estimates. This technique allows estimation of the sampling distribution of almost any statistic using random sampling methods. This ensures our data for the 2-sample T-test is randomly collected, independent, and approximately normally distributed. The test resulted in a calculated T-Value of 11.38, and a final p-value of 1.239375501089002e-19. According to our p-value, we will reject the null hypothesis, accept the alternative hypothesis and conclude that there is a statistical difference in the defensive aggression of teams from the English and French leagues. The caveat with our test is that we can only claim our conclusion with a power of 23%, this was in part because the data set we were given was too small and within the time constraints of our project we were unable to collect more. 
+
+
+
 
 HYPOTHESIS #4
