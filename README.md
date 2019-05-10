@@ -2,6 +2,8 @@
 
 by Alex Shropshire, Connor Anderson, Kevin Velasco
 
+![Map_European_Clubs](map_clubs.png)
+
 For our module two final project, we were tasked to demonstrate our ability to gather real-world information and use our knowledge of statistically analysis and hypothesis testing to gain an analytical understanding in a meaningful way. We selected the European Soccer Dataset (https://www.kaggle.com/hugomathien/soccer) to use for our project. We have angled ourselves as an analytics team, with the goal to help improve club management, players development/player selection, formation tactics, team attributes, and transfer market. 
 
 Before exploring the dataset, we first formulated some initial questions that the data can possibly answer. 
