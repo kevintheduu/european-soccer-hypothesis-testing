@@ -28,7 +28,8 @@ HYPOTHESIS #2
 
 
 
-HYPOTHESIS #3
+###HYPOTHESIS #3###
+
 Is there a statistical difference in the defensive aggressiveness of teams in the English and French leagues. In order to create a dataframe for this hypothesis, we had to make several merge and joins in order to compare the leagues. We merged the match data with the league_ids and team attributes so that we were able to compare the attributes of the teams in both leagues. Our H0(Null Hypothesis): there is no significant difference in the defensive aggression between the English and French leagues. Our HA:(Alternate Hypothesis): there is a statistical difference in the defensive aggression between the English and French Leagues. In order to extract the data from the correct columns, we had to engineer booleans which would only take rows that were subject to each league. This allowed for easier exploration and helped facilitate the functions created. 
 
 Calculating the Cohen's d between the means of our English and French leagues as 0.0698, this allowed us to choose our minimum sample size of 578 for England and 643 for France.
