@@ -11,10 +11,10 @@ Slightly More Technical Blog Link: https://towardsdatascience.com/hypothesis-tes
 For our module two final project, we were tasked to demonstrate our ability to gather real-world information and use our knowledge of statistically analysis and hypothesis testing to gain an analytical understanding in a meaningful way. We selected the European Soccer Dataset (https://www.kaggle.com/hugomathien/soccer) to use for our project. We have angled ourselves as an analytics team, with the goal to help improve club management, players development/player selection, formation tactics, team attributes, and transfer market. 
 
 
-Checkout our blog post: blog link here
+Link to our blog posts that covers an overview of our project: https://medium.com/@krexvelasco/hypothesis-testing-european-soccer-data-using-python-af536f94c44a,https://towardsdatascience.com/hypothesis-testing-european-soccer-data-home-field-advantage-ideal-formations-and-inter-league-8af2f6302995
 
-Link for our class presentation: https://github.com/kevintheduu/Hypothesis-Testing-European-Soccer-Data/blob/master/README.md
-The presentation frames us, the authors of this repo, as an analytics team presenting our findings to potential clubs hoping to hire us to improve their organizations. 
+Link to our class presentation: https://github.com/kevintheduu/Hypothesis-Testing-European-Soccer-Data/blob/master/README.md
+In conjuction with our code here, we also had to deliver a five minute presentation for the class to showcase our work. For this presentaion, we decide to on framing us as an analytics team presenting our findings to potential clubs hoping to hire us to improve their organizations. We decided to keep it a faily high level review of our work, and pitch to the club that we would be able to expand on more research if they decided to continue our hypothetical funding. 
 
 Before exploring the dataset, we first formulated some initial questions that the data can possibly answer. 
 
