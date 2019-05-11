@@ -2,6 +2,9 @@
 
 by Alex Shropshire, Connor Anderson, Kevin Velasco
 
+Non-Technical Business Presentation: Slideshow PDF attached in this repository
+Slightly More Technical Blog Link: https://towardsdatascience.com/hypothesis-testing-european-soccer-data-home-field-advantage-ideal-formations-and-inter-league-8af2f6302995
+
 
 ![Map_European_Clubs](map_clubs.png)
 
