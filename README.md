@@ -1,4 +1,4 @@
-## Hypothesis Testing European Soccer Data: Home Field Advantage, Ideal Formations, and Inter-League Attributes
+# Hypothesis Testing European Soccer Data: Home Field Advantage, Ideal Formations, and Inter-League Attributes
 
 by Alex Shropshire, Connor Anderson, Kevin Velasco
 
