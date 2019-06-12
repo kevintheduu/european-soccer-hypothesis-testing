@@ -1,12 +1,10 @@
-# Hypothesis Testing European Soccer Data: Home Field Advantage, Ideal Formations, and Inter-League Attributes
+## Hypothesis Testing European Soccer Data: Home Field Advantage, Ideal Formations, and Inter-League Attributes
 
 by Alex Shropshire, Connor Anderson, Kevin Velasco
 
 Non-Technical Business Presentation: Slideshow PDF attached in this repository
 Slightly More Technical Blog Link: https://towardsdatascience.com/hypothesis-testing-european-soccer-data-home-field-advantage-ideal-formations-and-inter-league-8af2f6302995
 
-
-![Map_European_Clubs](map_clubs.png)
 
 For our module two final project, we were tasked to demonstrate our ability to gather real-world information and use our knowledge of statistically analysis and hypothesis testing to gain an analytical understanding in a meaningful way. We selected the European Soccer Dataset (https://www.kaggle.com/hugomathien/soccer) to use for our project. We have angled ourselves as an analytics team, with the goal to help improve club management, players development/player selection, formation tactics, team attributes, and transfer market. 
 
